@@ -95,7 +95,7 @@ George đang làm thay cho cậu à?
 23
 00:01:43,710 --> 00:01:45,910
 mà trưởng khoa có đồng ý chưa?
- - Chưa trả lời
+- Chưa trả lời
 
 24
 00:01:45,920 --> 00:01:48,450
@@ -1171,8 +1171,8 @@ Pasteur và Copernicus nữa
 Aristarchus còn trước Copernicus lâu nữa [BOOKMARKED]
 
 288
-00:11:58,910 --> 00:12:01,230
-Tôi đã có cơ hội đi biển với Columbus,
+00:11:58,900 --> 00:12:00,900
+columbus
 
 289
 00:12:01,260 --> 00:12:03,640
