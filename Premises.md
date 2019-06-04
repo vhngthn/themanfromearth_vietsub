@@ -1,4 +1,4 @@
-﻿# Premises
+﻿# Một số điểm cần thống nhất
 
 1. Xài tiếng miền Nam nha, tại tui lỡ dịch bằng tiếng Nam hết rồi
 2. Có thể đọc thử vài phút đầu để xem qua phong cách dịch của tui
